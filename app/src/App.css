@@ -50,7 +50,7 @@ table {
 
 @import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
 
-body {
+/* body {
     font-style: italic;
     color: #424C55;
     font-family: 'Roboto', sans-serif;
@@ -76,6 +76,6 @@ h1 {
 
 .styledh1 {
   display:flex;
-  justify-content: center;
+  justify-content: center; */
 
 }
